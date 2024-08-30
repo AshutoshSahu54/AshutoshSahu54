@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Sahu</h1>
 <h3 align="center">👋 Hi there! I'm Ashutosh Sahu, a dedicated Data Analyst with over 3 years of experience in transforming data into actionable insights.</h3>
-<img align ="right" alt="Analyst" width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jKJLlgDfgaGkK6bbsVmDIwATL3pwSE5NDQ&s">
+<img align ="right" alt="Analyst" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jKJLlgDfgaGkK6bbsVmDIwATL3pwSE5NDQ&s">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
